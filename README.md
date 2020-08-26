@@ -1,7 +1,7 @@
 # auto-attendance
 automated attendance check program using python
 
-1. auto_fina.zip 파일의 압축을 풀어주세요.
+1. auto_final.zip 파일의 압축을 풀어주세요.
 
 2. ZOOM 회의중에만 사용할 수 있습니다.
 
